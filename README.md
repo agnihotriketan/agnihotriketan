@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Ketan Agnihotri.
+- 🔭 I’m currently working on ReactJs, Azure, .Net Core, Micro-services, Micro-Frontends
+- 🌱 I’m currently learning Docker, Kubernetes
+- 👯 I’m looking to collaborate on ReactJs projects
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Technology
+- 📫 How to reach me: https://k10.in
+- 😄 Pronouns: K10
+- ⚡ Fun fact: Used to look for challenging job opportunities, I am working 6th company in 8 years and loving my job.😂
 
 <!--
 **agnihotriketan/agnihotriketan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
