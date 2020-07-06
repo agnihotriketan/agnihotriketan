@@ -6,7 +6,7 @@
 - 💬 Ask me about Technology
 - 📫 How to reach me: https://k10.in
 - 😄 Pronouns: K10
-- ⚡ Fun fact: Used to look for challenging job opportunities, I am working 6th company in 8 years and loving my job.😂
+- ⚡ Fun fact: Always looking for challenging job opportunities,as a result I am working 6th company in 8 years and loving my job.😂
 
 <!--
 **agnihotriketan/agnihotriketan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
