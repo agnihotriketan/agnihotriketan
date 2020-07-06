@@ -2,8 +2,8 @@
 - 🔭 I’m currently working on ReactJs, Azure, .Net Core, Micro-services, Micro-Frontends
 - 🌱 I’m currently learning : Site Reliability Engineering #SRE 📚, Docker, KubernetesDocker, Kubernetes
 - 👯 I’m looking to collaborate on ReactJs projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Technology
+- 🤔 I’m looking for help with AI ML learning
+- 💬 Ask me about Technology, Business
 - 📫 How to reach me: https://k10.in, https://www.linkedin.com/in/ketanagnihotri/
 - 😄 Pronouns: K10
 - ⚡ Fun fact: Always looking for challenging job opportunities,as a result I am working 6th company in 8 years and loving my job.😂
