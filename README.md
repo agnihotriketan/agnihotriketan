@@ -7,9 +7,8 @@
 - 💬 Ask me about Technology, Business, NGO Help, Yoga
 - 😄 Pronouns: K10
 - ⚡ Fun fact: Always looking for challenging job opportunities,as a result I am working 6th company in 8 years and loving my job.😂
-- 📫 How to reach me: 
-
-<a href="https://k10.in">K10.in</a>
+- 📫 How to reach me: https://k10.in <br/>
+ 
 <a href="https://www.linkedin.com/in/ketanagnihotri"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/agnihotriketan"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/k10Agnihotri"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/facebook.png" width="40" /></a>
