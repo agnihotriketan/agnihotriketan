@@ -1,10 +1,4 @@
 ### Hi there 👋, I'm Ketan Agnihotri.
-
-<a href="https://www.linkedin.com/in/ketanagnihotri"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/agnihotriketan"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/k10Agnihotri"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:agnihotriketan@gmail.com"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/KetanAgnihotri"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/twitter.png" width="40" /></a>
  
 - 🔭 I’m currently working on ReactJs, Azure, .Net Core, Micro-services, Micro-Frontends
 - 🌱 I’m currently learning : Site Reliability Engineering #SRE 📚, Docker, KubernetesDocker, Kubernetes
@@ -27,5 +21,14 @@ Hi, I'm Ketan Agnihotri.
 - 💬 Ask me about Technology
 - 📫 How to reach me: https://k10.in
 - 😄 Pronouns: K10
-- ⚡ Fun fact: Used to look for challenging job opportunities, I am working 6th company in 8 years and loving my job.😂
+- ⚡ Fun fact: Used to look for challenging job opportunities, I am working with 6th company in 8 years and loving my job.😂
 -->
+
+Contact Me
+<a href="https://www.linkedin.com/in/ketanagnihotri"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/linkedin.png" width="40" /></a>
+<a href="https://github.com/agnihotriketan"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/github-logo.png" width="40" /></a>
+<a href="https://www.facebook.com/k10Agnihotri"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/facebook.png" width="40" /></a>
+<a href="mailto:agnihotriketan@gmail.com"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="https://twitter.com/KetanAgnihotri"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/twitter.png" width="40" /></a>
+
+![Ketan's Github Stats](https://github-readme-stats.vercel.app/api?username=agnihotriketan&show_icons=true)
