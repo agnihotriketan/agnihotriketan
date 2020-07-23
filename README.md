@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ketan Agnihotri.
- 
+- 🔑Proud Indian, Azure Consultant at Microsoft ✔️Please reach out to talk Technology, Business, Cricket, Yoga or India & I'll do my best to help
 - 🔭 I’m currently working on ReactJs, Azure, .Net Core, Micro-services, Micro-Frontends
 - 🌱 I’m currently learning : Site Reliability Engineering #SRE 📚, Docker, KubernetesDocker, Kubernetes
 - 👯 I’m looking to collaborate on ReactJs projects
