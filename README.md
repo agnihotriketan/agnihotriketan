@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on ReactJs projects
 - 🤔 I’m looking for help with AI ML learning
 - 💬 Ask me about Technology, Business, NGO Help, Yoga
+- 😄 Pronouns: K10
+- ⚡ Fun fact: Always looking for challenging job opportunities,as a result I am working 6th company in 8 years and loving my job.😂
 - 📫 How to reach me: 
 
 <a href="https://k10.in">K10.in</a>
@@ -13,8 +15,7 @@
 <a href="https://www.facebook.com/k10Agnihotri"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/facebook.png" width="40" /></a>
 <a href="mailto:agnihotriketan@gmail.com"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/KetanAgnihotri"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/logos/twitter.png" width="40" /></a>
-- 😄 Pronouns: K10
-- ⚡ Fun fact: Always looking for challenging job opportunities,as a result I am working 6th company in 8 years and loving my job.😂
+
 
 <!--
 **agnihotriketan/agnihotriketan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
