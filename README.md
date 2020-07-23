@@ -1,13 +1,16 @@
 ### Hi there 👋, I'm Ketan Agnihotri.
-- 🔑Proud Indian, Azure Consultant at Microsoft ✔️Please reach out to talk Technology, Business, Cricket, Yoga or India & I'll do my best to help
+- 🔑Proud Indian, Azure Consultant at Microsoft 
 - 🔭 I’m currently working on ReactJs, Azure, .Net Core, Micro-services, Micro-Frontends
 - 🌱 I’m currently learning : Site Reliability Engineering #SRE 📚, Docker, KubernetesDocker, Kubernetes
 - 👯 I’m looking to collaborate on ReactJs projects
 - 🤔 I’m looking for help with AI ML learning
 - 💬 Ask me about Technology, Business, NGO Help, Yoga
 - 😄 Pronouns: K10
+- ✔️Please reach out to talk Technology, Business, Cricket, Yoga or India & I'll do my best to help
 - ⚡ Fun fact: Always looking for challenging job opportunities,as a result I am working with 6th company in 8 years and loving my job.😂
-- 📫 How to reach me: https://k10.in <br/>
+- 📫 How to reach me: https://k10.in
+ <br/>
+
  
 <a href="https://www.linkedin.com/in/ketanagnihotri"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/sm/linkedin.png" width="40" /></a>
 <a href="https://github.com/agnihotriketan"><img src="https://github.com/agnihotriketan/agnihotriketan/blob/master/sm/github-logo.png" width="40" /></a>
