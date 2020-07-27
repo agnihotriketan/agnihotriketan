@@ -32,10 +32,10 @@ Hi, I'm Ketan Agnihotri.
 - 📫 How to reach me: https://k10.in
 - 😄 Pronouns: K10
 - ⚡ Fun fact: Used to look for challenging job opportunities, I am working with 6th company in 8 years and loving my job.😂
---> 
+
 
 GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat: 
-
+--> 
 ![Ketan's Github Stats](https://github-readme-stats.vercel.app/api?username=agnihotriketan&show_icons=true)
