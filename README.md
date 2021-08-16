@@ -9,6 +9,7 @@
 - ✔️Please reach out to talk Technology, Business, Cricket, Yoga or India & I'll do my best to help
 - ⚡ Fun fact: Always looking for challenging job opportunities,as a result I am working with 6th company in 8 years and loving my job.😂
 - 📫 How to reach me: https://k10.in
+- https://linktr.ee/agnihotriketan
  <br/>
 
  
