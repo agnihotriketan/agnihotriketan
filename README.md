@@ -7,14 +7,6 @@
 </p>
 
 ---
-### 📚 Author of 2 Books
-
-I am proud to have authored the following books on modern software development:
-1. 💡[**Mastering Full Stack Development**](https://www.amazon.in/dp/B0D7ZVQJH5)  
-   *A complete guide to building full stack applications with ReactJS, .NET Core, Microservices, and modern DevOps practices.*
-2. [**Serverless Computing Using Azure Functions**](https://www.amazon.in/Serverless-Computing-Using-Azure-Functions/dp/9390684943/)  
-   *Learn how to build scalable serverless applications on Azure using Functions, Logic Apps, and best practices for cloud-native architecture.*
- 
 ### 🧠 About Me
 
 - 🔑 **Senior Fullstack Engineer at NAC, Dubai**  
@@ -31,7 +23,14 @@ I am proud to have authored the following books on modern software development:
 - 😄 Pronouns: **K10**
 
 ---
+### 📚 Author of 2 Books
 
+I am proud to have authored the following books on modern software development:
+1. 💡[**Mastering Full Stack Development**](https://www.amazon.in/dp/B0D7ZVQJH5)  
+   *A complete guide to building full stack applications with ReactJS, .NET Core, Microservices, and modern DevOps practices.*
+2. [**Serverless Computing Using Azure Functions**](https://www.amazon.in/Serverless-Computing-Using-Azure-Functions/dp/9390684943/)  
+   *Learn how to build scalable serverless applications on Azure using Functions, Logic Apps, and best practices for cloud-native architecture.*
+---
 ### 🧩 Core Tech Stack
 
 | Domain | Technologies |
