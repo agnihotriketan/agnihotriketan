@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ketan Agnihotri.
-- 🔑Proud Indian, SDE 2 at Microsoft IDC
+- 🔑 Senior Fullstack Engineer at NAC, Dubai, Proud Indian, EX-SDE 2 at Microsoft IDC
 - 🔭 I’m currently working on ReactJs, React Native,  Azure, .Net Core, Micro-services, Micro-Frontends
 - 🌱 I’m currently learning : Site Reliability Engineering #SRE 📚, Docker, KubernetesDocker, Kubernetes
 - 👯 I’m looking to collaborate on ReactJs projects
