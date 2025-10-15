@@ -17,7 +17,7 @@
 - 🤖 Exploring **AI & ML** for future-ready solutions  
 - 💬 Ask me about **Technology, Business, NGO work, Yoga, or India**  
 - ✔️ Love meaningful conversations around **Cricket, Tech, and Social Impact**  
-- ⚡ Fun fact: Always hungry for challenges — **6 companies in 9.5+ years** and still loving the ride 😂  
+- ⚡ Fun fact: Always hungry for challenges — **6 companies in 13+ years** and still loving the ride
 - ❤️ Developer by profession, **humanitarian at heart** — supporting education & elder care via [Dayasagar Trust](https://www.dayasagartrustnashik.com) for 17+ years  
 - 📫 Reach me: [k10.in](https://k10.in) | [linktr.ee/agnihotriketan](https://linktr.ee/agnihotriketan)  
 - 😄 Pronouns: **K10**
