@@ -8,7 +8,7 @@
 - 😄 Pronouns: K10
 - ✔️Please reach out to talk Technology, Business, Cricket, Yoga or India & I'll do my best to help
 - ⚡ Fun fact: Always looking for challenging job opportunities,as a result I am working with 6th company in 9.5+ years and loving my job.😂
-- Developer by profession, humanitarian at heart — supporting education and elder care with Dayasagar Trust for 17+ years.
+- Developer by profession, humanitarian at heart — supporting education and elder care with Dayasagar Trust for 17+ years. visit www.dayasagartrustnashik.com
 - 📫 How to reach me: https://k10.in
 - https://linktr.ee/agnihotriketan
  <br/>
