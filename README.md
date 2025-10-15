@@ -33,14 +33,15 @@ I am proud to have authored the following books on modern software development:
 ---
 ### 🧩 Core Tech Stack
 
-| Domain | Technologies |
-|--------|---------------|
-| **Frontend** | React, React Native, TypeScript, Redux, TailwindCSS |
-| **Backend** | .NET 8, C#, Node.js, REST APIs, GraphQL |
-| **Cloud** | Azure App Service, Cosmos DB, Service Bus, Functions |
-| **Infra & DevOps** | Docker, Kubernetes, GitHub Actions, CI/CD |
-| **Architecture** | Microservices, Micro-frontends, DDD, Event-Driven Systems |
-| **Security** | OAuth2, Azure AD, JWT, Secure SDLC |
+ | Domain                     | Technologies                                                                                                                                                                                                                       |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AI & Cloud                 | Azure OpenAI Service, Cognitive Services, Azure Functions, Azure Active Directory, Cosmos DB, Cognitive Search, Azure IoT Hub, Data Factory, AKS, Serverless Architecture, Application Insights                                      |
+| Backend                    | .NET 8, C#, ASP.NET Core, Entity Framework (EF), LINQ, Microservices, CQRS, Event-Driven Systems, REST APIs, OData, RabbitMQ, Azure Service Bus                                                                                   |
+| Frontend                   | React.js, React Native, Next.js, TypeScript, JavaScript, Redux, SignalR, Fluent UI, React Admin, Micro-frontends (Single-spa.js), Responsive Design, Custom Component Libraries, React Server Components (CSR/SSR), HTML, CSS, Figma, SASS |
+| DevOps & Infra             | Azure DevOps, Docker, Kubernetes (AKS), Terraform (IaC), YAML, CI/CD Pipeline Configuration, Git, SonarQube, Visual Studio, VS Code, ESLint, GitHub Copilot                                                                      |
+| Security & Observability   | Azure AD, OAuth2, OWASP, Azure Advisor, Identity & Access Management, Application Insights, Log Analytics, KQL, Grafana, Kibana, MSAL                                                                                            |
+| Data & Analytics           | SQL Server, NoSQL (Cosmos DB), Data Factory, Power BI, Grafana, Kibana                                                                                                                                                              |
+| Patterns & Practices       | Microservices, Clean Architecture, TDD, OOP, HLD/LLD, Agile & Scrum                                                                                                                                                               | 
 
 ---
 
