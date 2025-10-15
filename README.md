@@ -53,6 +53,17 @@ I am proud to have authored the following books on modern software development:
 | **Microservice Boilerplate** | Production-grade starter kit with logging, CQRS, and observability | `.NET 8`, `Docker`, `Serilog`, `Redis` |
 
 ---
+# Open Source Contributions – NeetCode
+
+I contribute to [NeetCode](https://github.com/neetcode-gh/leetcode) in csharp language, a popular repository for Data Structures & Algorithms (DSA) solutions and coding interview prep.
+
+My contributions include:
+- Optimized solutions for common DSA problems.
+- Bug fixes and improvements for existing code.
+- Enhanced readability and clarity for learners.
+
+###  More info here https://neetcode.io/
+> Total merged PRs: ~38
 
 ### 📊 GitHub Analytics
 
