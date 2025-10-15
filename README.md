@@ -1,76 +1,74 @@
 <h1 align="center">👋 Hi there, I'm Ketan Agnihotri</h1>
-
 <p align="center">
-💼 Senior Full Stack Engineer @ NAC Dubai | Ex-Microsoft IDC | Proud Indian 🇮🇳  
-<br/>
-🚀 Building scalable systems using React, .NET Core, Azure & Microservices
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
+  <br/>
+  💼 Senior Full Stack Engineer @ NAC Dubai | Ex-Microsoft IDC | Proud Indian 🇮🇳  
+  <br/>
+  🚀 Building scalable systems with React, .NET Core, Azure & Microservices
 </p>
 
 ---
+
 ### 🧠 About Me
-
-- 🔑 **Senior Fullstack Engineer at NAC, Dubai**  
-- 🧩 **Ex-SDE2 at Microsoft IDC**, 13+ years of global experience  
-- 🔭 Currently working on **ReactJS, React Native, Azure, .NET Core, Micro-frontends, Micro-services**  
-- 🌱 Learning: **Site Reliability Engineering (SRE)**, **Docker**, **Kubernetes**  
-- 👯 Open to collaborate on **ReactJS / .NET / Azure projects**
+- 🔑 **Senior Fullstack Engineer at NAC, Dubai** (13+ years global experience)  
+- 🧩 **Ex-SDE2 at Microsoft IDC**  
+- 🌱 Learning: **SRE, Docker, Kubernetes**  
+- 🔭 Working with: **ReactJS, React Native, Azure, .NET Core, Micro-frontends, Microservices**  
+- 👯 Open to collaborate on **ReactJS / .NET / Azure projects**  
 - 🤖 Exploring **AI & ML** for future-ready solutions  
-- 💬 Ask me about **Technology, Business, NGO work, Yoga, or India**  
-- ✔️ Love meaningful conversations around **Cricket, Tech, and Social Impact**  
-- ⚡ Fun fact: Always hungry for challenges — **6 companies in 13+ years** and still loving the ride
-- ❤️ Developer by profession, **humanitarian at heart** — supporting education & elder care via [Dayasagar Trust](https://www.dayasagartrustnashik.com) for 17+ years  
+- ❤️ Developer by profession, **humanitarian at heart** – supporting [Dayasagar Trust](https://www.dayasagartrustnashik.com) for 17+ years  
 - 📫 Reach me: [k10.in](https://k10.in) | [linktr.ee/agnihotriketan](https://linktr.ee/agnihotriketan)  
-- 😄 Pronouns: **K10**
+- ⚡ Fun fact: Always hungry for challenges — **6 companies in 13+ years**  
 
 ---
+
 ### 📚 Author of 2 Books
+1. 💡 [**Mastering Full Stack Development**](https://www.amazon.in/dp/B0D7ZVQJH5) – Full stack apps with ReactJS, .NET Core, Microservices & DevOps  
+2. [**Serverless Computing Using Azure Functions**](https://www.amazon.in/Serverless-Computing-Using-Azure-Functions/dp/9390684943/) – Build scalable serverless apps on Azure  
 
-I am proud to have authored the following books on modern software development:
-1. 💡[**Mastering Full Stack Development**](https://www.amazon.in/dp/B0D7ZVQJH5)  
-   *A complete guide to building full stack applications with ReactJS, .NET Core, Microservices, and modern DevOps practices.*
-2. [**Serverless Computing Using Azure Functions**](https://www.amazon.in/Serverless-Computing-Using-Azure-Functions/dp/9390684943/)  
-   *Learn how to build scalable serverless applications on Azure using Functions, Logic Apps, and best practices for cloud-native architecture.*
 ---
+
 ### 🧩 Core Tech Stack
 
- | Domain                     | Technologies                                                                                                                                                                                                                       |
-|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AI & Cloud                 | Azure OpenAI Service, Cognitive Services, Azure Functions, Azure Active Directory, Cosmos DB, Cognitive Search, Azure IoT Hub, Data Factory, AKS, Serverless Architecture, Application Insights                                      |
-| Backend                    | .NET 8, C#, ASP.NET Core, Entity Framework (EF), LINQ, Microservices, CQRS, Event-Driven Systems, REST APIs, OData, RabbitMQ, Azure Service Bus                                                                                   |
-| Frontend                   | React.js, React Native, Next.js, TypeScript, JavaScript, Redux, SignalR, Fluent UI, React Admin, Micro-frontends (Single-spa.js), Responsive Design, Custom Component Libraries, React Server Components (CSR/SSR), HTML, CSS, Figma, SASS |
-| DevOps & Infra             | Azure DevOps, Docker, Kubernetes (AKS), Terraform (IaC), YAML, CI/CD Pipeline Configuration, Git, SonarQube, Visual Studio, VS Code, ESLint, GitHub Copilot                                                                      |
-| Security & Observability   | Azure AD, OAuth2, OWASP, Azure Advisor, Identity & Access Management, Application Insights, Log Analytics, KQL, Grafana, Kibana, MSAL                                                                                            |
-| Data & Analytics           | SQL Server, NoSQL (Cosmos DB), Data Factory, Power BI, Grafana, Kibana                                                                                                                                                              |
-| Patterns & Practices       | Microservices, Clean Architecture, TDD, OOP, HLD/LLD, Agile & Scrum                                                                                                                                                               | 
+| 🧠 Domain | ⚡ Technologies |
+|-----------|----------------|
+| AI & Cloud | Azure OpenAI, Cognitive Services, Functions, Cosmos DB, AKS, Serverless, App Insights |
+| Backend | .NET 8, C#, ASP.NET Core, EF, LINQ, Microservices, CQRS, Event-Driven, REST APIs, RabbitMQ, Service Bus |
+| Frontend | React, React Native, Next.js, TS, JS, Redux, SignalR, SSR/CSR, HTML/CSS, Figma, SASS |
+| DevOps | Azure DevOps, Docker, Kubernetes, Terraform, CI/CD, Git, SonarQube, Copilot |
+| Security | Azure AD, OAuth2, OWASP, IAM, App Insights, Log Analytics, Grafana, Kibana, MSAL |
+| Data & Analytics | SQL Server, Cosmos DB, Data Factory, Power BI, Grafana, Kibana |
+| Patterns & Practices | Microservices, Clean Architecture, TDD, OOP, HLD/LLD, Agile & Scrum |
 
 ---
 
 ### 🏗️ Highlight Projects
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **Seller Experience Platform** | End-to-end seller portal built using PowerApps, .NET Core APIs, and Azure microservices | `.NET`, `PowerApps`, `Azure` |
-| **AI Support Agent (POC)** | Conversational AI assistant integrated with Azure OpenAI for enterprise workflows | `Python`, `FastAPI`, `Azure OpenAI` |
-| **Microservice Boilerplate** | Production-grade starter kit with logging, CQRS, and observability | `.NET 8`, `Docker`, `Redis` |
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| Seller Experience Platform | `.NET`, `PowerApps`, `Azure` | End-to-end seller portal with microservices |
+| AI Support Agent (POC) | `Python`, `FastAPI`, `Azure OpenAI` | Conversational AI assistant for enterprise workflows |
+| Microservice Boilerplate | `.NET 8`, `Docker`, `Redis` | Production-grade starter kit with logging, CQRS, observability |
 
 ---
-# Open Source Contributions – NeetCode
 
-I contribute to [NeetCode](https://github.com/neetcode-gh/leetcode) in csharp language, a popular repository for Data Structures & Algorithms (DSA) solutions and coding interview prep.
+### 🌟 Open Source Contributions – NeetCode
+I contribute to [NeetCode](https://github.com/neetcode-gh/leetcode), a popular repository for DSA solutions and coding interview prep.
 
-My contributions include:
-- Optimized solutions for common DSA problems.
-- Bug fixes and improvements for existing code.
-- Enhanced readability and clarity for learners.
+- Optimized solutions for common DSA problems  
+- Bug fixes & code clarity improvements  
+- Enhanced readability for learners  
 
-###  More info here https://neetcode.io/
-> Total merged PRs: ~38
+> Total merged PRs: ~38  
+> More info: [https://neetcode.io/](https://neetcode.io/)
 
-### 📊 GitHub Analytics
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agnihotriketan&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agnihotriketan&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agnihotriketan&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnihotriketan&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -88,5 +86,5 @@ My contributions include:
 ---
 
 <p align="center">
-  💬 “Building meaningful software and meaningful lives — one commit at a time.”  
+💬 “Building meaningful software and meaningful lives — one commit at a time.”
 </p>
