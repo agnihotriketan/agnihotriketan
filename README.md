@@ -50,8 +50,8 @@ I am proud to have authored the following books on modern software development:
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | **Seller Experience Platform** | End-to-end seller portal built using PowerApps, .NET Core APIs, and Azure microservices | `.NET`, `PowerApps`, `Azure` |
-| **AI Support Agent (POC)** | Conversational AI assistant integrated with Azure OpenAI for enterprise workflows | `Python`, `FastAPI`, `LangChain`, `Azure OpenAI` |
-| **Microservice Boilerplate** | Production-grade starter kit with logging, CQRS, and observability | `.NET 8`, `Docker`, `Serilog`, `Redis` |
+| **AI Support Agent (POC)** | Conversational AI assistant integrated with Azure OpenAI for enterprise workflows | `Python`, `FastAPI`, `Azure OpenAI` |
+| **Microservice Boilerplate** | Production-grade starter kit with logging, CQRS, and observability | `.NET 8`, `Docker`, `Redis` |
 
 ---
 # Open Source Contributions – NeetCode
