@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🔑 **Senior Fullstack Engineer at NAC, Dubai**  
-- 🧩 **Ex-SDE2 at Microsoft IDC**, 11+ years of global experience  
+- 🧩 **Ex-SDE2 at Microsoft IDC**, 13+ years of global experience  
 - 🔭 Currently working on **ReactJS, React Native, Azure, .NET Core, Micro-frontends, Micro-services**  
 - 🌱 Learning: **Site Reliability Engineering (SRE)**, **Docker**, **Kubernetes**  
 - 👯 Open to collaborate on **ReactJS / .NET / Azure projects**
