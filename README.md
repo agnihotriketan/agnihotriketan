@@ -7,14 +7,21 @@
 </p>
 
 ---
+### 📚 Author of 2 Books
 
+I am proud to have authored the following books on modern software development:
+1. 💡[**Mastering Full Stack Development**](https://www.amazon.in/dp/B0D7ZVQJH5)  
+   *A complete guide to building full stack applications with ReactJS, .NET Core, Microservices, and modern DevOps practices.*
+2. [**Serverless Computing Using Azure Functions**](https://www.amazon.in/Serverless-Computing-Using-Azure-Functions/dp/9390684943/)  
+   *Learn how to build scalable serverless applications on Azure using Functions, Logic Apps, and best practices for cloud-native architecture.*
+ 
 ### 🧠 About Me
 
 - 🔑 **Senior Fullstack Engineer at NAC, Dubai**  
 - 🧩 **Ex-SDE2 at Microsoft IDC**, 11+ years of global experience  
 - 🔭 Currently working on **ReactJS, React Native, Azure, .NET Core, Micro-frontends, Micro-services**  
 - 🌱 Learning: **Site Reliability Engineering (SRE)**, **Docker**, **Kubernetes**  
-- 👯 Open to collaborate on **ReactJS / .NET / Azure projects**  
+- 👯 Open to collaborate on **ReactJS / .NET / Azure projects**
 - 🤖 Exploring **AI & ML** for future-ready solutions  
 - 💬 Ask me about **Technology, Business, NGO work, Yoga, or India**  
 - ✔️ Love meaningful conversations around **Cricket, Tech, and Social Impact**  
